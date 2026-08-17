@@ -44,7 +44,7 @@ An interactive Power BI dashboard was built to allow stakeholders to dynamically
 
 ## 👨‍💻 Author
 **Beshoy Magdy Abdelsaid**
-* Data Scientist / Data Analyst
+*  Data Analyst
 * **LinkedIn:** [beshoy-magdy2050](https://www.linkedin.com/in/beshoy-magdy2050)
 * **GitHub:** [beshomagdy2050](https://github.com/beshomagdy2050)
 * **Email:** Beshoy.Magdy.Official@gmail.com
